@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Thanks to this site for guiding me
+https://www.binaryboxtuts.com/angular-tutorials/angular-19/how-to-develop-login-and-registration-in-angular-19-app-using-api/
